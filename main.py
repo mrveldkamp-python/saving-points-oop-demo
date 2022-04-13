@@ -1,4 +1,4 @@
-# Saving Points Demo - FIle IO and JSON
+# Saving Points OOP Demo - FIle IO and JSON
 
 from points import *
 
